@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Mox Timer",
+  "version": "1.0",
+  "description": "Simple use timer to focus on tasks",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "action": {
+    "default_icon": "icon.png",
+    "default_title": "Mox Timer",
+    "default_popup": "popup/popup.html"
+  }
+}
